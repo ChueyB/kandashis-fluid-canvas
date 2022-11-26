@@ -83,8 +83,8 @@
     "/scripts/fluidCanvas.js"
   ],
   "socket": true,
-  "url": "https://github.com/ChueyB/kandashis-fluid-canvas",
-  "manifest": "https://raw.githubusercontent.com/ChueyB/kandashis-fluid-canvas/master/module.json",
+  "url": "https://github.com/kandashi/kandashis-fluid-canvas",
+  "manifest": "https://raw.githubusercontent.com/kandashi/kandashis-fluid-canvas/master/module.json",
   "download": "This is auto replaced",
   "compatibility": {
     "minimum": "9",
