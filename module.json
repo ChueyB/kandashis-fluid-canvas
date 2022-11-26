@@ -1,5 +1,6 @@
 {
   "name": "kandashis-fluid-canvas",
+  "id": "kandashis-fluid-canvas",
   "title": "Kandashi's Fluid Canvas",
   "description": "",
   "version": "This is auto replaced",
@@ -89,6 +90,9 @@
     "minimum": "9",
     "verified": "10.290"
   },
-  "relationships": [],
-  "system": []
+  "relationships": {
+    "systems": [],
+    "requires": []
+  },
+  "systems": []
 }
