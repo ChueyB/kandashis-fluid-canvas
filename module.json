@@ -84,5 +84,10 @@
   "socket": true,
   "url": "https://github.com/kandashi/kandashis-fluid-canvas",
   "manifest": "https://raw.githubusercontent.com/kandashi/kandashis-fluid-canvas/master/module.json",
-  "download": "This is auto replaced"
+  "download": "This is auto replaced",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10.290"
+  },
+  "system": []
 }
